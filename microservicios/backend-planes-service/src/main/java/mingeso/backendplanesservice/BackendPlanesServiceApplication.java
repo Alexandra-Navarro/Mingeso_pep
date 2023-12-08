@@ -1,4 +1,4 @@
-package mingeso.backendestudiantesservice;
+package mingeso.backendplanesservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 
 @SpringBootApplication
 @EnableEurekaClient
-public class BackendEstudiantesServiceApplication {
+public class BackendPlanesServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendEstudiantesServiceApplication.class, args);
+		SpringApplication.run(BackendPlanesServiceApplication.class, args);
 	}
 
 }

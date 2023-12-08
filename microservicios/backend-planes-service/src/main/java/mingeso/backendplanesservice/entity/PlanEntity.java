@@ -1,5 +1,4 @@
-package mingeso.backendestudiantesservice.entity;
-
+package mingeso.backendplanesservice.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,18 +7,18 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "estudiantes")
+@Table(name = "plan_estudios")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-
-public class EstudianteEntity {
+public class PlanEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(unique = true,nullable = false)
-    private String rut;
-    private String nombres;
-    private String apellidos;
-    private String email;
-    private Integer cod_carr;
+    private String cod_carr;
+    private String cod_plan;
+    private Integer nivel;
+    private Integer cod_asig;
+    private String nom_asig;
 }
+

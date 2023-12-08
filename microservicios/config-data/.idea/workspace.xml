@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97424f4-111a-409b-ba4e-2e7d95c9d0e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../backendconfig-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backendconfig-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backendconfig-service/src/main/resources/aplication.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../backendconfig-service/src/main/resources/aplication.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/BackendPlanesServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/PlanController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/PlanEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/repository/PlanRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/service/PlanService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/test/java/mingeso/backendplanesservice/BackendPlanesServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/BackendEstudiantesServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/BackendEstudiantesServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/entity/EstudianteEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/entity/EstudianteEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/resources/bootstrap.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backendconfig-service/src/main/resources/aplication.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../backendconfig-service/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +55,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alexa\Desktop\pep3_mingeso\microservicios\config-data" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -53,6 +74,7 @@
       <workItem from="1699323027864" duration="818000" />
       <workItem from="1702066626641" duration="201000" />
       <workItem from="1702067574926" duration="724000" />
+      <workItem from="1702068643653" duration="1115000" />
     </task>
     <servers />
   </component>

@@ -10,3 +10,4 @@ spring:
           default-label: main
           uri: https://github.com/Alexandra-Navarro/Mingeso_pep
           search-paths: "microservicios/config-data"
+

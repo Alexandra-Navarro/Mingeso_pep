@@ -1,15 +1,14 @@
-
 spring:
   devtools:
     restart:
       aditional-paths: src/main/java
   application:
-    name: backend-estudiantes-service
+    name: backend-planes-service
   jpa:
     database: MYSQL
     show-sql: true
     hibernate:
-      ddl-auto: create
+      ddl-auto: none
   cloud:
     config:
       enabled: true
@@ -17,8 +16,8 @@ spring:
   datasource:
     plataform: mysql
     driver-class-name: com.mysql.cj.jdbc.Driver
-    dbname: data
-    url: jdbc:mysql://localhost:3306/data
+    dbname: datos
+    url: jdbc:mysql://localhost:3306/datos
     username: root
     password: hola1234
   servlet:
