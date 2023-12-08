@@ -4,33 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f97424f4-111a-409b-ba4e-2e7d95c9d0e1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/backend-cuotas-service.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-gateway-service.yml" afterDir="false" />
-    </list>
+    <list default="true" id="1033be66-eb35-4c9a-962b-c0c3aa352a36" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2XmIy6SnVfIFsXmN8hslgW166Mb" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ZH2GDfpMs81s3HX4DqH2qH3n4e" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Alexa/Desktop/pep3_mingeso/microservicios/config-data",
+    "last_opened_file_path": "C:/Users/Alexa/Desktop/pep3_mingeso/backendconfig-service",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,19 +45,24 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="BackendconfigServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="backendconfig-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mingeso.backendconfigservice.BackendconfigServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f97424f4-111a-409b-ba4e-2e7d95c9d0e1" name="Changes" comment="" />
-      <created>1699228080229</created>
+      <changelist id="1033be66-eb35-4c9a-962b-c0c3aa352a36" name="Changes" comment="" />
+      <created>1702064586912</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1699228080229</updated>
-      <workItem from="1699228081363" duration="2012000" />
-      <workItem from="1699299544974" duration="1227000" />
-      <workItem from="1699303836185" duration="2000" />
-      <workItem from="1699323027864" duration="818000" />
-      <workItem from="1702066626641" duration="175000" />
+      <updated>1702064586912</updated>
+      <workItem from="1702064590046" duration="1995000" />
     </task>
     <servers />
   </component>
