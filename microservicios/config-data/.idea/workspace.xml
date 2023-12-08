@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f97424f4-111a-409b-ba4e-2e7d95c9d0e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/backendestudiantesservice/backendestudiantesservice/config/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/backendestudiantesservice/backendestudiantesservice/controller/EstudianteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/backendestudiantesservice/backendestudiantesservice/entity/EstudianteEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/backendestudiantesservice/backendestudiantesservice/repository/EstudianteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/backendestudiantesservice/backendestudiantesservice/service/EstudianteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/backendestudiantesservice/backendestudiantesservice/BackendEstudiantesServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/backendestudiantesservice/backendestudiantesservice/BackendEstudiantesServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-eureka-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-eureka-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-eureka-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-eureka-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-gateway-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-gateway-service/src/main/java/mingeso/backendgatewayservice/BackendGatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-gateway-service/src/main/java/mingeso/backendgatewayservice/BackendGatewayServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-gateway-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-gateway-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-gateway-service/src/test/java/mingeso/backendgatewayservice/BackendGatewayServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-gateway-service/src/test/java/mingeso/backendgatewayservice/BackendGatewayServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-cuotas-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-cuotas-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-estudiantes-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-estudiantes-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-eureka-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-eureka-service.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-gateway-service.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2XmIy6SnVfIFsXmN8hslgW166Mb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexa/Desktop/Mingeso/Microservicios/config-data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f97424f4-111a-409b-ba4e-2e7d95c9d0e1" name="Changes" comment="" />
+      <created>1699228080229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699228080229</updated>
+      <workItem from="1699228081363" duration="2012000" />
+      <workItem from="1699299544974" duration="1227000" />
+      <workItem from="1699303836185" duration="2000" />
+      <workItem from="1699323027864" duration="818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
