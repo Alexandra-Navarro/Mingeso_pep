@@ -1,8 +1,7 @@
-package mingeso.backendplanesservice.service;
+package mingeso.backendcarrerasservice.service;
 
-import mingeso.backendplanesservice.entity.CarrerasEntity;
-import mingeso.backendplanesservice.entity.PlanEntity;
-import mingeso.backendplanesservice.repository.CarrerasRepository;
+import mingeso.backendcarrerasservice.entity.CarrerasEntity;
+import mingeso.backendcarrerasservice.repository.CarrerasRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

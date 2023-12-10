@@ -1,6 +1,6 @@
-package mingeso.backendplanesservice.repository;
+package mingeso.backendcarrerasservice.repository;
 
-import mingeso.backendplanesservice.entity.CarrerasEntity;
+import mingeso.backendcarrerasservice.entity.CarrerasEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

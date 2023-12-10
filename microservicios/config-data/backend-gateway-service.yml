@@ -33,5 +33,8 @@ spring:
         - id: backend-planes-service
           uri: lb://backend-planes-service
           predicates:
-            - Path=/carreras/**
             - Path=/planes/**
+        - id: backend-carreras-service
+          uri: lb://backend-carreras-service
+          predicates:
+            - Path=/carreras/**

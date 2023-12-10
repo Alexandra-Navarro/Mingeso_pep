@@ -1,4 +1,4 @@
-package mingeso.backendplanesservice.entity;
+package mingeso.backendcarrerasservice.entity;
 
 
 import lombok.AllArgsConstructor;

@@ -1,7 +1,6 @@
 package mingeso.backendplanesservice.controller;
 
 
-import mingeso.backendplanesservice.entity.CarrerasEntity;
 import mingeso.backendplanesservice.entity.PlanEntity;
 import mingeso.backendplanesservice.service.PlanService;
 import org.springframework.beans.factory.annotation.Autowired;
