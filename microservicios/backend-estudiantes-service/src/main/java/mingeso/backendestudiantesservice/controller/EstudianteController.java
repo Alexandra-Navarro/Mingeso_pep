@@ -24,7 +24,8 @@ public class EstudianteController {
     // Listar estudiantes de la base de datos
     @GetMapping()
     public ResponseEntity<List<EstudianteEntity>> listar() {
-        List<EstudianteEntity> estudianteEntities = estudianteService.findAll();
+        String palabraClave = "133";
+        List<EstudianteEntity> estudianteEntities = estudianteService.findAll(palabraClave);
         return ResponseEntity.ok(estudianteEntities);
     }
 
@@ -36,9 +37,4 @@ public class EstudianteController {
         return ResponseEntity.ok(estudianteEntity);
     }
 
-//    @GetMapping("/{codCarr}")
-//    public ResponseEntity<List<EstudianteEntity>> obtenerPlanPorCodigoCarrera(@PathVariable Integer codCarr) {
-//        List<EstudianteEntity> planEntities = estudianteService.findByCodigoCarrera(codCarr);
-//        return ResponseEntity.ok(planEntities);
-//    }
 }

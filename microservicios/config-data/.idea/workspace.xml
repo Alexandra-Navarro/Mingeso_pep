@@ -9,10 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/entity/EstudianteEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/entity/EstudianteEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/repository/EstudianteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/repository/EstudianteRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/service/EstudianteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/service/EstudianteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/PlanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/PlanController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/PlanEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/PlanEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/repository/PlanRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/repository/PlanRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/service/PlanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/service/PlanService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +62,7 @@
       <workItem from="1702067574926" duration="724000" />
       <workItem from="1702068643653" duration="2355000" />
       <workItem from="1702221423601" duration="1336000" />
+      <workItem from="1702227507821" duration="1448000" />
     </task>
     <servers />
   </component>

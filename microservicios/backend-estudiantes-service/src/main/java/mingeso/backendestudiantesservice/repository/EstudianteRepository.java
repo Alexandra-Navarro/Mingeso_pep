@@ -2,6 +2,7 @@ package mingeso.backendestudiantesservice.repository;
 
 import mingeso.backendestudiantesservice.entity.EstudianteEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
@@ -10,6 +11,9 @@ import java.util.List;
 public interface EstudianteRepository extends JpaRepository<EstudianteEntity, Long> {
     EstudianteEntity findByRut(String rut);
 
-    List<EstudianteEntity> findByCodCarr(Integer codCarr);
+    @Query("SELECT estudiante FROM EstudianteEntity estudiante WHERE CAST(estudiante.cod_carr AS string) LIKE %?1%")
+    List<EstudianteEntity> findAll(String palabraClave);
+
+
 
 }

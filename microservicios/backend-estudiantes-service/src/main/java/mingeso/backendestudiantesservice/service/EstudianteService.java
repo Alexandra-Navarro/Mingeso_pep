@@ -18,7 +18,10 @@ public class EstudianteService {
         estudianteRepository.save(estudianteEntity);
     }
 
-    public List<EstudianteEntity> findAll(){
+    public List<EstudianteEntity> findAll(String palabraClave){
+        if(palabraClave != null) {
+            return estudianteRepository.findAll(palabraClave);
+        }
         return estudianteRepository.findAll();
     }
 
@@ -26,7 +29,5 @@ public class EstudianteService {
         return estudianteRepository.findByRut(rut);
     }
 
-    public List<EstudianteEntity> findByCodigoCarrera(Integer codCarr) {
-        return estudianteRepository.findByCodCarr(codCarr);
-    }
+
 }
