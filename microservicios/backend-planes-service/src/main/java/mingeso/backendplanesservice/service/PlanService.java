@@ -13,7 +13,5 @@ public class PlanService {
     @Autowired
     private PlanRepository planRepository;
 
-    public List<PlanEntity> findByCodigoCarrera(Integer codCarr) {
-        return planRepository.findByCodCarr(codCarr);
-    }
+
 }

@@ -1,5 +1,6 @@
 package mingeso.backendplanesservice.entity;
 
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -7,20 +8,17 @@ import lombok.NoArgsConstructor;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "plan_estudios")
+@Table(name = "carreras")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class PlanEntity {
+
+public class CarrerasEntity {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer cod_carr;
-    private String cod_plan;
-    private Integer nivel;
-    private Integer cod_asig;
-    private String nom_asig;
 
-    @ManyToOne
-    private CarrerasEntity carrerasEntity;
+    private String codigo;
+    private String nombre_carrera;
 
 }

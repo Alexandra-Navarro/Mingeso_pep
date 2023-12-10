@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97424f4-111a-409b-ba4e-2e7d95c9d0e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/CarrerasController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/CarrerasEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/repository/CarrerasRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/service/CarrerasService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/controller/EstudianteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/controller/EstudianteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/entity/EstudianteEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/entity/EstudianteEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/repository/EstudianteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/repository/EstudianteRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/service/EstudianteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-estudiantes-service/src/main/java/mingeso/backendestudiantesservice/service/EstudianteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/PlanController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/PlanController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/PlanEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/PlanEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/repository/PlanRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/repository/PlanRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/service/PlanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/service/PlanService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-gateway-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +68,7 @@
       <workItem from="1702067574926" duration="724000" />
       <workItem from="1702068643653" duration="2355000" />
       <workItem from="1702221423601" duration="1336000" />
-      <workItem from="1702227507821" duration="1448000" />
+      <workItem from="1702227507821" duration="1471000" />
     </task>
     <servers />
   </component>

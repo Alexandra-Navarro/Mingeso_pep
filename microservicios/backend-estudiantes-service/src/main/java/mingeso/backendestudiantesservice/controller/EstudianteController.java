@@ -23,8 +23,7 @@ public class EstudianteController {
 
     // Listar estudiantes de la base de datos
     @GetMapping()
-    public ResponseEntity<List<EstudianteEntity>> listar() {
-        String palabraClave = "133";
+    public ResponseEntity<List<EstudianteEntity>> listar(@RequestParam(name = "palabraClave", required = false) String palabraClave) {
         List<EstudianteEntity> estudianteEntities = estudianteService.findAll(palabraClave);
         return ResponseEntity.ok(estudianteEntities);
     }
