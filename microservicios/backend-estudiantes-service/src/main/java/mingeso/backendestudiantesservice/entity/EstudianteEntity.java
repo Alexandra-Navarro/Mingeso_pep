@@ -21,5 +21,5 @@ public class EstudianteEntity {
     private String nombres;
     private String apellidos;
     private String email;
-    private Integer cod_carr;
+    private Integer codCarr;
 }

@@ -6,6 +6,6 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 @Repository
-public interface PlanRepository extends JpaRepository<PlanEntity, Long> {
-    List<PlanEntity> findByCodigoCarrera(String cod_carr);
+public interface PlanRepository extends JpaRepository<PlanEntity,Long> {
+    List<PlanEntity> findByCodCarr(Integer codCarr);
 }

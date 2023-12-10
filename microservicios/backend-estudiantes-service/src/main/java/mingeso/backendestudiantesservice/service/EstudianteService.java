@@ -25,4 +25,8 @@ public class EstudianteService {
     public EstudianteEntity findByRut(String rut){
         return estudianteRepository.findByRut(rut);
     }
+
+    public List<EstudianteEntity> findByCodigoCarrera(Integer codCarr) {
+        return estudianteRepository.findByCodCarr(codCarr);
+    }
 }

@@ -14,11 +14,14 @@ import javax.persistence.*;
 public class PlanEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(unique = true,nullable = false)
-    private String cod_carr;
+
+
+    @Column(name = "cod_carr")
+    private Integer codCarr;
+
     private String cod_plan;
     private Integer nivel;
     private Integer cod_asig;
     private String nom_asig;
-}
 
+}

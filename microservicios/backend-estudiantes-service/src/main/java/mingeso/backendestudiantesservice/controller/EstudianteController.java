@@ -35,4 +35,10 @@ public class EstudianteController {
         System.out.println(estudianteEntity);
         return ResponseEntity.ok(estudianteEntity);
     }
+
+//    @GetMapping("/{codCarr}")
+//    public ResponseEntity<List<EstudianteEntity>> obtenerPlanPorCodigoCarrera(@PathVariable Integer codCarr) {
+//        List<EstudianteEntity> planEntities = estudianteService.findByCodigoCarrera(codCarr);
+//        return ResponseEntity.ok(planEntities);
+//    }
 }
