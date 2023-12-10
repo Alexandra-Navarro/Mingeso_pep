@@ -34,3 +34,4 @@ spring:
           uri: lb://backend-planes-service
           predicates:
             - Path=/carreras/**
+            - Path=/planes/**

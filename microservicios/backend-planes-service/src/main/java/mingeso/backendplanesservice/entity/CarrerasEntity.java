@@ -19,6 +19,6 @@ public class CarrerasEntity {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
 
     private String codigo;
-    private String nombre_carrera;
+    private String nombrecarr;
 
 }

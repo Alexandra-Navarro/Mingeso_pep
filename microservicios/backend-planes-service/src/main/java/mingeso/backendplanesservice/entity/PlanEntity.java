@@ -14,10 +14,10 @@ import javax.persistence.*;
 public class PlanEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer cod_carr;
-    private String cod_plan;
+    private String codcarr;
+    private String codplan;
     private Integer nivel;
-    private Integer cod_asig;
+    private String codasig;
     private String nom_asig;
 
     @ManyToOne
