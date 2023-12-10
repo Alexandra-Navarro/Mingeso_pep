@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f97424f4-111a-409b-ba4e-2e7d95c9d0e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/CarrerasController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/controller/CarrerasController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/PlanEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../backend-planes-service/src/main/java/mingeso/backendplanesservice/entity/PlanEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend-gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend-gateway-service.yml" afterDir="false" />
     </list>
@@ -59,7 +61,7 @@
       <workItem from="1702067574926" duration="724000" />
       <workItem from="1702068643653" duration="2355000" />
       <workItem from="1702221423601" duration="1336000" />
-      <workItem from="1702227507821" duration="3864000" />
+      <workItem from="1702227507821" duration="4479000" />
     </task>
     <servers />
   </component>

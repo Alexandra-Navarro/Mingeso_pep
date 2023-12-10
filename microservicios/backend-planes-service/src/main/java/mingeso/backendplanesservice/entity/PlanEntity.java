@@ -18,9 +18,8 @@ public class PlanEntity {
     private String codplan;
     private Integer nivel;
     private String codasig;
-    private String nom_asig;
+    private String nomasig;
 
-    @ManyToOne
-    private CarrerasEntity carrerasEntity;
+
 
 }
