@@ -24,6 +24,4 @@ public class PlanController {
         return ResponseEntity.ok(planEntities);
     }
 
-
-
 }
