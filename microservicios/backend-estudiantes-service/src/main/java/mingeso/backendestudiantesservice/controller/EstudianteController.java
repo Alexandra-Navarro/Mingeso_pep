@@ -28,6 +28,8 @@ public class EstudianteController {
         return ResponseEntity.ok(estudianteEntities);
     }
 
+
+
     // Opción para eliminar un estudiante
     @GetMapping("/{rut}")
     public ResponseEntity<EstudianteEntity> findByRut(@PathVariable("rut") String rut) {

@@ -17,4 +17,7 @@ public class PlanService {
         return planRepository.findAll();
     }
 
+    public List<PlanEntity> findByCodcarr(String codcarr) {
+        return planRepository.findByCodcarr(codcarr);
+    }
 }

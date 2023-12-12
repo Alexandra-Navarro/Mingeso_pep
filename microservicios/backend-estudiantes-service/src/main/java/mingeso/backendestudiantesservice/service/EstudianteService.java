@@ -19,11 +19,12 @@ public class EstudianteService {
     }
 
     public List<EstudianteEntity> findAll(String palabraClave){
-        if(palabraClave != null) {
-            return estudianteRepository.findAll(palabraClave);
-        }
-        return estudianteRepository.findAll();
+        return estudianteRepository.findAll(palabraClave);
+
+
     }
+
+
 
     public EstudianteEntity findByRut(String rut){
         return estudianteRepository.findByRut(rut);

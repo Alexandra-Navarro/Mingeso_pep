@@ -11,9 +11,8 @@ import java.util.List;
 public interface EstudianteRepository extends JpaRepository<EstudianteEntity, Long> {
     EstudianteEntity findByRut(String rut);
 
-    @Query("SELECT estudiante FROM EstudianteEntity estudiante WHERE CAST(estudiante.cod_carr AS string) LIKE %?1%")
+    @Query("SELECT estudiante FROM EstudianteEntity estudiante WHERE CAST(estudiante.cod_carr AS string)  LIKE %?1% OR estudiante.rut LIKE %?1%")
     List<EstudianteEntity> findAll(String palabraClave);
-
 
 
 }
